@@ -16,4 +16,4 @@
      📌 About
      Developed as part of a machine learning learning task to demonstrate practical ML + web app deployment skills.
 
-Live Deployed Link : 
+Live Deployed Link : https://jigar148-titanic-streamlit-app-o1zz01.streamlit.app/
